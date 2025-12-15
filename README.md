@@ -163,7 +163,7 @@ This project includes a **fully interactive Streamlit web application** that all
 ├── deployment/
 │   ├── knn_model.pkl
 │   └── label_encoder.pkl
-├── app.py              # (optional) Streamlit / API deployment
+├── app.py              
 ├── requirements.txt
 └── README.md
 ```
